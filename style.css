@@ -1,0 +1,22 @@
+.navbar-brand img{
+    height: 40px;
+    width: 30px;
+    
+}
+.nav-item {
+      font-size: 20px;
+      color: aliceblue;
+}
+body {
+  background-image: url(images/bg.jpg);
+  background-size: cover;        /* ছবিটাকে সম্পূর্ণ ব্যাকগ্রাউন্ডে ফিট করায় */
+  background-repeat: no-repeat;  /* ছবি রিপিট করবে না */
+  background-position: center;   /* ছবিটা মাঝখানে থাকবে */
+  height: 600px;
+  
+}
+.custom.col-md-8 {
+    margin-top: 200px;
+    color: white
+    ;
+}
